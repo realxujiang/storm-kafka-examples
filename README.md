@@ -19,3 +19,5 @@ Process Design
 ```
     storm jar storm-kafka-examples-1.0-SNAPSHOT.jar cn.itweet.kafka_storm.topology.CounterTopology
 ```
+
+* Processing data to HDFS,Running results `hadoop fs -ls /tmp/order_hdfs-xxx.log`

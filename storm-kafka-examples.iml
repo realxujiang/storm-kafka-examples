@@ -11,17 +11,17 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.storm:storm-core:0.10.1" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.esotericsoftware.kryo:kryo:2.21" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.esotericsoftware.reflectasm:reflectasm:shaded:1.07" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm:4.0" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.esotericsoftware.minlog:minlog:1.2" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.clojure:clojure:1.6.0" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.googlecode.disruptor:disruptor:2.10.4" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.logging.log4j:log4j-api:2.1" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.logging.log4j:log4j-core:2.1" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.logging.log4j:log4j-slf4j-impl:2.1" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.slf4j:log4j-over-slf4j:1.6.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.storm:storm-core:0.10.1" level="project" />
+    <orderEntry type="library" name="Maven: com.esotericsoftware.kryo:kryo:2.21" level="project" />
+    <orderEntry type="library" name="Maven: com.esotericsoftware.reflectasm:reflectasm:shaded:1.07" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm:4.0" level="project" />
+    <orderEntry type="library" name="Maven: com.esotericsoftware.minlog:minlog:1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:clojure:1.6.0" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.disruptor:disruptor:2.10.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-core:2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-slf4j-impl:2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:log4j-over-slf4j:1.6.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-auth:2.4.0" level="project" />
     <orderEntry type="library" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.7" level="project" />

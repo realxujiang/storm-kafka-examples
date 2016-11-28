@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.storm:storm-hdfs:0.10.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../software/apache-maven-3.0.5/repository/org/apache/storm/storm-hdfs/0.10.1/storm-hdfs-0.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../software/apache-maven-3.0.5/repository/org/apache/storm/storm-hdfs/0.10.1/storm-hdfs-0.10.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../software/apache-maven-3.0.5/repository/org/apache/storm/storm-hdfs/0.10.1/storm-hdfs-0.10.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
